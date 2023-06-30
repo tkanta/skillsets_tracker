@@ -1,0 +1,328 @@
+
+Comtechtel Telecom Project
+---------------------------
+#. Telecom domain
+	 grid generation
+	 Cell Tower information understanding
+
+#. Tech stack - Nodejs, Apache Kafka, Java 11, Docker and Kubernates, Postgres
+
+Inseego IOT Project
+------------------------------
+#. Analyse the Inseego IOT project
+#. Azure AZ220 IOT developer (https://docs.microsoft.com/en-us/learn/certifications/exams/az-220)
+#. Tech stack - Vuejs, Spring, Java, Postgres, Azure (AuthZ, AuthN, Gateway, Function)
+
+Azure Certification
+-----------------------
+AZ220 (IOT)
+	- https://acloudguru.com/blog/engineering/which-azure-certification-is-right-for-me
+Azure-supported language, including C#, Node, C, or Python
+
+
+------------------ Technology Learning ----------------------
+
+Nodejs **
+Reactjs **
+AWS cloud
+Git
+
+Angularjs
+SpringBoot
+	- Features
+	- spring batch
+	- Reactive
+	- Serverless
+	- Event driven
+	
+Postgres
+	- Spatial search
+	- Partition
+	- Indexing
+	- Json
+	
+Docker / Kubernates **
+Apache Kafka
+
+Azure Cloud		
+Vuejs
+Java
+	- Matrix
+
+Algorithm
+Data-Structure
+Interpersonal skill
+
+System Design
+	- UML
+	- Design pattern
+	- System interaction
+	
+	
+	
+-------------------------- SKill Upgrade ------------------------------
+
+Problem Solving and Logic:
+	- Data-Structure
+	- Algorithm
+
+Front End:
+	- Reactjs
+    - Bootstrap
+	- Javascript ( ES6 )
+	
+Artifitial Intelligence
+	- python
+	- AI & ML
+	
+System Design:
+	- UML
+	- Design Pattern
+	- System Interaction
+
+Cloud Architecture
+	- AWS
+	- Azure
+	- Openstack 
+
+Messaging:
+	- Apache Kafka (Tuning/Setup/Integration)
+		
+Devops:
+	- Kubernates
+    - Docker 
+    - Ansible
+	- Helm
+	- Linux
+	- Prometheus
+	- Graphana
+	- cAdvisor 
+
+Server Side:
+	- SpringBoot
+    - Nodejs
+	- DataBase : Postgres, Mongo, Cassandra
+	- Java
+	- Maven / Gradle
+	
+Communication:
+	- Presentation (Excel, PPT, Doc)
+    - Vocalbulary
+    - Public Speaking Practice
+	
+Software Management:
+	- Tools ( Jira, Rally, Aha )
+	- Process ( Agile )
+	- GIT
+	
+Domain Knowledge:
+	- IOT
+    - Telecom
+    - Map Navigation
+    - Payment
+    - Reinsurence
+    - Airline	
+	
+Data Visualization:
+	Tableau
+		https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm
+	power bi	
+    
+Metaverse:
+	https://www.gartner.com/en/articles/what-is-a-metaverse
+	https://www.gartner.com/smarterwithgartner/3-themes-surface-in-the-2021-hype-cycle-for-emerging-technologies
+	https://www.guru99.com/difference-between-ar-vr.html 
+
+====================================== Different Educative resources ==============================================
+
+- https://hackernoon.com/pluralsight-vs-udemy-vs-codecademy-vs-educative-6gia333d
+- https://javarevisited.blogspot.com/2021/05/udemy-vs-educative-review-which-is.html#axzz7FGKus0jS
+- https://www.educative.io/courses/educative-faq/j2WmR
+- https://www.educative.io/courses/educative-faq/xlzRjXEQA4B
+
+Though, I have found some gems in Udemy like Angular Complete Guide by Max and his other courses on React. Similarly, Colt_Steele’s courses on Web Development and Algorithms are excellent, and so is Stephen Grider’s JavaScript and other courses.
+
+Similarly, Jose Portilla’s The Complete Python 3 Bootcamp and Python for Data Science Bootcamp courses are also good, and So is Ryan Kroonenburg’s Cloud courses and Kirill Eremenko Machine Learning and AI courses.
+
+
+----------- Prep Interview --------------
+https://www.quora.com/?pa_story=MjIwNjI0Mzc0NTQzODU4MjIzNnwyMTExMDYyMzY3Njc0NzN8MA**
+
+
+------------- Popular:
+
+Quantum:
+	The Fundamentals of Quantum Computing
+	Evaluate Hamming Distance Using Quantum Computing
+	
+Regex:
+	Regular Expressions for Programmers
+
+
+Messaging:
+	Building Scalable Data Pipelines with Kafka
+
+System Design:
+	System Design Interview: DoorDash
+	Grokking the Advanced System Design Interview
+	Deep Dive into System Design Interview
+	Grokking Modern System Design for Software Engineers & Managers
+	Domain Driven Design Made Easy
+	Software Design Patterns: Best Practices for Software Developers
+	Web Application and Software Architecture 101
+	Distributed Systems for Practitioners
+
+API Design:
+	Grokking the API Design Interview
+
+Interview:
+	Grokking Comp Negotiation in Tech
+	Hacking the TPM Interview ( Technical Program Manager Interview )
+	Ace the FAANG Program Manager Interview for Beginners
+	Grokking the Behavioral Interview
+
+FrontEnd:
+	Intermediate Redux with Redux Toolkit
+	Introduction to Visualization Using D3.js
+	D3 Tips and Tricks: Interactive Data Visualization
+	The Complete Advanced Guide to CSS
+	Learn HTML, CSS, and JavaScript from Scratch
+	A Deep Dive into React Hooks
+	Next.js - The ultimate way to build React apps
+	Rediscovering JavaScript: ES6, ES7 & ES8
+	Optimize your web projects with Progressive Web Apps
+
+Devops:
+	Bash for Programmers
+	Advanced Kubernetes Techniques: Monitoring, Logging, Auto-Scaling
+	Ansible: Zero to Production Ready
+	Learn Git the Hard Way
+	Learn Kubernetes: A Deep Dive
+	complete-guide-devops-azure
+	kubernetes-essentials **
+	Become a Kubernetes Professional **	
+	DevOps for Developers **
+	Learn Kubernetes: A Deep Dive ***
+	Fundamentals of DevOps
+
+	projects:
+	Create Single Deployment Using Helm and K8s
+	Fault-Tolerant Web Hosting on Kubernetes
+	Deploy a Full Stack Web Application over Kubernetes
+
+Cloud:
+	The Complete Guide to DevOps in Azure
+	cloud-computing-101-master-the-fundamentals **
+	Terraform: From Beginner to Master with Examples in AWS
+	Learn the A to Z of Amazon Web Services (AWS)
+	Cloud Architecture: A Guide To Design & Architect Your Cloud **
+	The Complete Guide to DevOps in Azure
+	event-driven-microservices-azure
+	rest-api-python-microsoft-azure
+	Fundamentals of AWS
+
+	AWS:
+		aws-certified-solutions-architect-assoc-exam-prep
+
+Language:		
+	Java:
+		Collections in Java
+		Java Multithreading for Senior Engineering Interviews
+		The All-in-One Guide to Java Programming ****
+		The Java Interview Handbook: 300+ Interview Questions
+		Java 8 for Experienced Developers: Lambdas, Stream API & Beyond
+		A Quick Primer on Garbage Collection Algorithms
+		
+	Python:
+		Python for Programmers
+		Learn Functional Programming in Python
+	 	Data Structures and Algorithms in Python
+ 		
+Build Tool:
+	Build Java Projects with Maven	
+
+Spring:	
+	Software Architecture in Java: Design & Development
+	Oauth2 with Spring Security
+	Full Reactive Stack: Spring Boot 2 & Spring WebFlux
+	The Complete Guide to Spring 5 and Spring Boot 2
+	Building Enterprise Applications with Spring Boot
+
+Algo/DS:
+	Grokking Dynamic Programming Patterns for Coding Interviews	
+	Grokking the Coding Interview: Patterns for Coding Questions **
+	Data Structures for Coding Interviews in Java **
+	Ace the Java Coding Interview  (Path)
+	Mastering Data Structures and Sorting Algorithms in JavaScript
+	The Algorithms and Data Structures Interview Crash Course
+
+AI/ML:
+	Predictive AI:
+		From Python to Numpy	
+		Google Cloud: AI Speech-to-Text with Python 3
+		Machine Learning System Design
+		A Practical Guide to Machine Learning with Python
+		Machine Learning System Design
+	
+	Regenerative AI:
+		Become a Deep Learning Professional (SKILL PATH) ****
+			- Introduction to Deep Learning & Neural Networks
+			- Building Advanced Deep Learning and NLP Projects
+
+Blockchain:
+	Become a Blockchain Developer
+
+
+Database:	
+	Database Design Fundamentals for Software Engineers		
+	DynamoDB Deep Dive: NoSQL for Software Engineers
+	Complete Guide to Redis
+
+Security:
+	Web Application Security for the Everyday Software Engineer
+	Web Security and Access Management: JWT, OAuth2 & OpenId Connect
+	Password Security: How not to Store Passwords
+	Web Application Security: Understanding HTTP Security Headers
+
+Operating System:
+	Operating Systems: Virtualization, Concurrency & Persistence
+
+Mobile App:
+	Developing Mobile Apps with Ionic and React
+
+Product Management:
+	Lean Product Management
+
+Nodejs:
+	Automating With Node.js	
+
+
+
+===================================== kubernetes ===============================================
+
+1. PVC usage in kubernetes
+2. Kafka deployment in k8s
+3. postgres deployment in k8s
+4. redis deployment in k8s	
+5. K8s volume / configmap
+
+
+======================= Graphana / Prometheus ====================================================
+
+
+
+======================== Cloud ===================================================================
+
+Azure:
+	IOT azure analysis
+
+
+======================== Domain ===================================================================
+
+1. Telecom
+	comtechtel
+
+2. IOT
+	Inseego
+
+	

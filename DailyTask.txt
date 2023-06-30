@@ -1,0 +1,561 @@
+
+------------ 21-NOV-2020 ---------------
+1. Nodejs
+2. Telecom domain
+3. IOT Project Analysis
+4. Algorithm and DS
+
+---------- 29-NOV-2020 ----------------
+1. Algorithm and DS
+	- https://www.toptal.com/algorithms/interview-questions
+	- https://www.guru99.com/algorithm-interview-questions.html
+	
+	Find if two rectangles overlap:
+		https://www.geeksforgeeks.org/find-two-rectangles-overlap/
+		
+2. Design Pattern
+3. Nodejs
+	- Pagination and sorting
+	- timestamps
+	
+4. Kafka Messaging
+5. Docker and Kubernates.
+6. Spring Boot
+7. Postgres.
+8. Communication.
+9. Resume Preparation.
+	- Comtech Telecom.
+	- IOT devices.
+
+--------- 08-DEC-2020 ---------
+1. DS and Algorithm
+	
+2. Spring boot
+3. Reactjs
+4. Nodejs	
+
+------------ 28-DEC-2020 ---------
+1. Reactjs
+	- Basic Reactjs feature
+	
+2. Nodejs
+3. AWS 
+4. IOTC project review.
+
+------------- 30-DEC-2020 -------------
+
+1. Vocab
+	phlegmatic 
+		- Steadiness / Supportive / unemotional character : (of a person) having an unemotional and stolidly calm disposition 
+		- The Captain's phlegmatic character, gives their teammates stability to express themselves.
+		
+	unflappable 
+		- having or showing calmness in a crisis.
+		- A good leader is upflappable even in the most chaotic circumstances
+		
+
+------------ 31-DEC-2020 ------------------
+
+1. ReactJS
+	Error:
+		index.js:2178 Warning: validateDOMNesting(...): <h6> cannot appear as a descendant of <p>.
+		
+
+---------- 06-MAR-2021 ----------------
+
+1. Nodejs
+	- socket.io chat app
+	- npm init
+	- npm i nodemon --save-dev
+	- npm run start/dev
+	
+
+---------- 29-AUG-2021 --------------
+
+1. Algorithm and DS
+	hackerrank problem solving
+		BirthDay Cake
+		
+	Analysis of loops
+		https://www.geeksforgeeks.org/analysis-of-algorithms-set-4-analysis-of-loops/
+		
+	java stream:
+		https://www.baeldung.com/java-8-streams-introduction
+		https://www.baeldung.com/java-8-streams
+		https://www.baeldung.com/java-8-collectors
+		
+		
+		optional:
+			https://www.baeldung.com/java-8-new-features
+			https://www.geeksforgeeks.org/java-8-optional-class/
+			https://java8example.blogspot.com/2019/08/optional-flatmap.html
+		
+		map vs flatmap:
+			https://www.geeksforgeeks.org/difference-between-map-and-flatmap-in-java-stream/
+			https://www.baeldung.com/java-difference-map-and-flatmap
+			https://www.java67.com/2016/03/how-to-use-flatmap-in-java-8-stream.html
+			
+			conclusion:
+				FlatMap removes the extra optional [ e.g Optional<Optional<String>> ]
+				FlatMap removes the extra Stream   [ e.g  Stream<Stream<String>> ]
+					- flatmap flattens the List<List<String>> to List<String>, so that we can apply logic to the elements  ( e.g using further 'map' )
+						
+			sample:
+			list.stream().flatMap(Collection::stream).collect(Collectors.toList())
+	
+	java8 new feature:
+		https://www.baeldung.com/java-8-new-features
+	
+
+--------------- 11-SEP-2021 --------------------		
+1. Communication 	
+
+2. AI and ML
+	Python
+	
+3. Docker and Kubernetes
+	- Udemy 
+	
+4. Postgres 
+	SQL
+	Function / PLSQL
+	partition
+	Indexing
+	
+5. Algorithm and Datastructure
+	- In Progress	
+	
+6. Spring boot 
+	batch
+	Event Driven
+	feature
+	Serverless
+	
+7. Profile Preparation.
+
+8. System Design
+	- IOT system design
+	
+
+-------------- 21-SEP-2021 ----------------
+
+1. Algorithm and Datastructure	
+	
+2. reactjs
+	- Events and states
+
+3. Kubernetes and Docker
+
+4. Apache Kafka
+
+-------------- 09-OCT-2021 ----------------
+1. Algo DS - In progress
+
+2. AI/ML
+3. System Design
+
+4. Kubernates and Docker
+5. Reactjs - In progress
+	- State and events
+6. Apache Kafka
+
+------------- 14-OCT-2021 -----------------
+
+* Spring Batch - In Progress
+* DS/ALGO - In Progress
+* Communication
+* Postgres 
+* System Design
+
+
+------------ 01-NOV-2021 -----------
+
+* React - In Progress
+
+* AI/ML - 
+
+* System Design - In Progress
+	Vending Machine
+	SD primer
+
+* Algo/DS - 
+
+* Devops - In Progress
+	SSH connection logs
+	Azure IOT Analysis
+
+* Company analysis - Flexi cap fund
+	- Tickertape
+	- Parag Parikh flexi
+	- PGIM flexi
+
+* Info
+	There are 23 IITs in all with 16,232 seats.
+	
+* Apache Kafka
+
+------------- 25-DEC-2021 ---------------
+1. System Design
+	- Scalability & System Design for Developers (35 h)	
+
+2. Algo/DS
+	- Grokking the Coding Interview (50 h)
+	- Ace the Java Coding Interview (55 h)
+
+3. Reactjs
+	* Rendering list and conditional content
+
+4. Presentation skill
+	* Udemy
+
+=============================== 04-APR-2022 ==================================
+
+1. PROBLEM_SOLVING
+	
+	- Grokking the Coding Interview: Patterns for Coding Questions
+		* sliding windows 
+	
+	- Data Structures for Coding Interviews in Java		
+		* Heap (MaxHeap, MeanHeap)
+	    * Graph 
+
+	Logarithms:
+		http://www.columbia.edu/itc/sipa/math/logarithms.html
+
+2. SYSTEM_DESIGN
+	- Scalability & System Design for Developers (35 h)	
+		- Grokking the System Design Interview : In Progress
+			* Pastebin, Instagram, DropBox
+		- Web Application and Software Architecture
+			* Communication Between the Client and the Server 
+			* Load Balancing
+
+	HTTP:
+		https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+
+	Analysis:
+			
+		NoSQL relationship:
+			https://stackoverflow.com/questions/4126811/how-do-you-track-record-relations-in-nosql	
+		How DB postgres replication works ?:
+			check comtech design
+		How to separate databases for each logical partition (sharding vs partitioning)
+			check DB partition		
+			- https://hazelcast.com/glossary/sharding/#:~:text=Sharding%20and%20partitioning%20are%20both,within%20a%20single%20database%20instance.
+
+
+3. FRONTEND
+	- Reactjs ****
+		* https://reactjs.org/
+		* Styling React Component
+		* Debugging React
+		
+	- Nextjs Vs Reactjs
+		- https://nextjs.org/docs/getting-started
+		- https://www.clock.co.uk/insight/next-js-what-is-it-and-why-do-we-use-it
+		- Quite simply, Next.js is a React framework for developing single page Javascript applications
+
+	- SSR Vs CSR
+		* https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8
+
+4. Presentation / Communication Skill
+	- Identify and Identifying with your Audience
+
+5. DEVOPS
+	- Promethius
+	- Kubernetes and Docker
+		- Volumes
+		- Networking
+	- Azure Cloud	
+		The Complete Guide to DevOps in Azure
+	- AWS
+		Learn the A to Z of Amazon Web Services (AWS)
+
+6. INVESTMENT ANALYSIS
+	- Trading View analysis
+
+7. MESSAGING
+	- Kafka
+	- RabbitMQ
+
+8. AI/ML
+	- Python
+		- Python for Programmers	
+	- FastAPI : https://fastapi.tiangolo.com/
+
+9. SERVER-SIDE
+	Database: postgres 
+		- SQL + PLSQL
+		- Partitioning ****
+		- Sharding
+		- Relication
+		- Indexing 
+    java: 
+    	HashMap and ConcurrentHashMap internals *****
+
+	Database: Cassandra	
+
+
+10. BLOCK CHAIN	
+	- Become a Blockchain Developer
+
+
+11. News Reading : TODO
+	- https://eurasiantimes.com/china-looks-at-gaining-lead-in-quantum-tech-with-new-helium/
+	- External affair min. reply to US comment
+   	
+12. Quantum Computing 	
+   	
+================== 24-APR-2022 ====================
+
+1. Dropbox design
+2. Postgres sharding with partitioning
+3. Consistent hashing
+
+=============== 03-MAY-2022 =======================
+
+1. Algorithm: Pattern Top K
+2. Communication skill
+
+=============== 12-05-2022 ========================
+
+1. Cassandra wide column NoSQL
+	Review
+2. Kafka
+2. Communication
+3. DS & AL
+	pattern top k
+
+	PriorityQueue:
+		https://howtodoinjava.com/java/collections/java-priorityqueue/#:~:text=In%20PriorityQueue%2C%20the%20added%20items,provided%20at%20queue%20construction%20time.
+
+4. Others:
+	- How hydrogen fuel cell works
+	- neuralink
+	- waste management
+	- water conservation
+	- Air pollution management2. 
+
+================ 22-05-2022 =======================
+
+1. Design. 
+	- Uber backend
+
+2. HMAC:
+	https://www.geeksforgeeks.org/hmac-algorithm-in-computer-network/#:~:text=HMAC%20algorithm%20stands%20for%20Hashed,uses%20the%20Hashing%20concept%20twice.
+
+	An HMAC key is also a symmetric key, but it's used for signing, not encryption.) A typical symmetric-key algorithm is the Advanced Encryption Standard (AES). HMAC does not encrypt the message. Instead, the message (encrypted or not) must be sent alongside the HMAC hash. Parties with the secret key will hash the message again themselves, and if it is authentic, the received and computed hashes will match.		HMAC does not encrypt the message. Instead, the message (encrypted or not) must be sent alongside the HMAC hash. Parties with the secret key will hash the message again themselves, and if it is authentic, the received and computed hashes will match.
+		- HMAC is a great resistance towards cryptanalysis attacks as it uses the Hashing concept twice
+		- As the Hash Function, HMAC is also aimed to be one way, i.e, easy to generate output from input but complex the other way round
+		- It aims at being less affected by collisions than the hash functions
+		- HMAC reuses the algorithms like MD5 and SHA-1 and checks to replace the embedded hash functions with more secure hash functions, in case found. 
+
+3. Communication:
+	Presentation tips
+
+================= 08-JULY-2022 ======================
+
+1. D&A 
+	- Java, python, Scala
+	Pattern
+		- connect rope
+		- sum of elements
+		- Task scheduler
+
+	real world example
+		- Netflix
+	
+		
+
+2. System Design and Architecture Exploration
+
+	web app - monolith and microservices
+	webhooks:
+	 	https://zapier.com/blog/what-are-webhooks/
+	review items
+		- Dead letter queue
+		- Back pressure 		
+	micro frontends:
+	
+	kafka vs rabbitmq vs activeMq
+		https://www.simplilearn.com/kafka-vs-rabbitmq-article	
+		push based: rabbitmq, activemq
+		pull based : kafka
+	micro-service management 
+			- (istio Service mesh)
+			- Graphana, promeshteos
+	page speed:
+			https://pagespeed.web.dev/
+	
+	Database:
+		Facebook Database:
+			- https://www.scaleyourapp.com/what-database-does-facebook-use-a-1000-feet-deep-dive/
+
+	Zeerodha stack
+		* https://zerodha.tech/
+		* Flutter 
+
+	Scale you app:
+		https://www.scaleyourapp.com/about-us/
+
+	Caching : In Progress
+		
+3. Azure Cloud
+	Azure :(Inseego IOT)
+	Aws : https://www.educative.io/path/become-an-aws-professional
+
+4. Communication	
+
+5. Reactjs
+	practice project - completed
+	page speed analysis:
+		- https://pagespeed.web.dev/report?url=https%3A%2F%2Finseego.com%2F
+
+
+6. Backend Frameworks
+	Spring 
+
+		
+8. Devops:
+	Kubernetes professional EDU
+
+9. Language:
+	- Scala
+	- Python
+
+================= 05-AUG-2022 ===================
+
+*. Problem Solving
+	real world example - Netflix
+
+*. System Architecture
+	wide column database
+	Caching
+	Message Queues
+		* reactive platform
+    Stream processing
+
+*. Presentation and Communication
+
+*. FrontEnd
+	reactjs	
+
+*. DevOPs
+	- Network Fundamentals
+
+*. Cloud
+	AWS Certified Solution architect
+	
+*. AI
+
+*. Spring:	
+	- https://www.baeldung.com/circular-dependencies-in-spring 
+		* Use setters injection to avoid circular dependency. It can happen in Spring when using constructor injection. If we use other types of injections, we shouldn't have this problem since the dependencies will be injected when they are needed and not on the context loading			
+
+*. Nodejs
+		- Networking: https://livebook.manning.com/book/node-js-in-practice/chapter-7/13
+		- https://www.knowledgehut.com/blog/web-development/nodejs-net-module
+		* Node’s http core module is built on the net, stream, buffer, and events modules.
+		* Node’s http core module is built on the net, stream, buffer, and events modules		
+
+	DSCP:
+		-https://en.wikipedia.org/wiki/Differentiated_services
+		-https://stackoverflow.com/questions/52963906/can-i-set-ip-header-from-node-js
+		-https://thwack.solarwinds.com/product-forums/network-performance-monitor-npm/f/forum/54303/can-npm-monitoring-traffic-be-set-to-a-specific-dscp-value-within-the-app
+			* https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc162504(v=msdn.10)?redirectedfrom=MSDN
+		(iptables):	
+		- http://blog.manton.im/2018/02/tagging-traffic-with-dscp-on-centos-7.html 
+		- https://serverfault.com/questions/811587/how-to-set-dscp-values-for-outgoing-traffic-from-my-linux-server-to-check-whethe
+		- https://www.linuxquestions.org/questions/linux-networking-3/qos-dscp-using-firewalld-in-centos7-4175644652/ (firewall)	
+
+    Nodejs:
+    	- https://niceans.com/answer/can-i-set-ip-header-from-node-js
+
+
+*. Netty Server
+		- https://levelup.gitconnected.com/comparing-java-websockets-jetty-vs-netty-ba128ddca313
+		- https://stackoverflow.com/questions/8406914/benefits-of-netty-over-basic-serversocket-server	
+
+
+
+------------- SNMP:
+HPE synergy SNMP testing
+----------------------------
+https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=emr_na-a00043890en_us#N10012
+https://techlibrary.hpe.com/docs/iss/shared/error_gen10/GUID-6A9CFAB9-E80B-4FA5-B49A-F74C49A4A076.html
+
+
+Send SNMP test traps:
+	https://support.hpe.com/hpesc/public/docDisplay?docId=a00118216en_us&page=s_send-snmp-test-traps.html
+
+================================ Priority =======================================
+
+Cloud :
+	good parts of AWS 
+		AWS: dynamoDB, EC2, lambda, S3, SQS, Kinesis, Route-53
+	Azure: APIM, S3, Lambda
+
+
+Devops : ###
+	Learn Kubernetes: A Deep Dive
+	Kubernetes Essentials
+		* Module3: practical guide to k8s
+	Create Multiple Deployments Using Helm
+	DevOps for Developers
+		* Module-5: A Practical Guide to Kubernetes (In progress)
+
+System Design and Architecture : ###
+	https://scaleyourapp.com/full-list-of-articles-in-the-real-world-software-architecture-series/
+	API Rate limiter
+	Mobile Apps
+	dynamo-design-key-val-store
+	microservice principle and concept
+	Deep Dive System Design
+		Module-1: Distributes System (In progress)
+
+Algo and DS :
+	Start ------ Grokking Coding Interview Patterns in Java
+		* two pointers
+
+Domain :
+	 IOT
+	 Telecom	
+
+Frontend : ###
+	Udemy reactjs: 
+		Section:9 - A Complete Practice Project (In progress)
+
+AI/ML : 
+	Udemy A-Z machine learning 
+		* section-1
+		* section-2
+
+Server Side : 
+	Junit5 : assert all
+	springboot : optimistic locking
+	REST APIs
+	Start ----- Python Fundamentals
+		* 
+
+MERN Stack: ****
+	Mongo DB, Express JS, React JS, Node JS	
+	- https://github.com/topics/mern-stack
+	- https://www.mongodb.com/mern-stack
+	- https://github.com/jeanrauwers/mern-course-bootcamp
+	- https://github.com/mohamedsamara/mern-ecommerce
+
+Data visualization:
+	Tableau: https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm
+
+
+Communication:
+	News topic debate ##
+
+CV prepare:
+	- Prepare CV 
+
+Others:
+	https://piotrminkowski.com/2022/10/29/kafka-transactions-with-spring-boot/
+	https://www.scaler.com/topics/computer-network/difference-between-transport-layer-and-network-layer/
+
+
