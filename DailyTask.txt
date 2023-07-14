@@ -490,12 +490,6 @@ Send SNMP test traps:
 
 ================================ Priority =======================================
 
-Cloud :
-	good parts of AWS 
-		AWS: dynamoDB, EC2, lambda, S3, SQS, Kinesis, Route-53
-	Azure: APIM, S3, Lambda
-
-
 Devops : ###
 	Learn Kubernetes: A Deep Dive
 	Kubernetes Essentials
@@ -503,6 +497,27 @@ Devops : ###
 	Create Multiple Deployments Using Helm
 	DevOps for Developers
 		* Module-5: A Practical Guide to Kubernetes (In progress)
+
+Frontend : ###
+	Udemy reactjs: 
+		Section:9 - A Complete Practice Project (In progress)
+
+
+AI/ML : ###
+	Predictive AI: 
+		Udemy A-Z machine learning 
+			* section-1
+			* section-2
+
+	Regenerative AI:
+		Become a Deep Learning Professional	
+
+Cloud : ###
+	AWS :
+		Become an AWS Professional
+
+	Azure : 
+	
 
 System Design and Architecture : ###
 	https://scaleyourapp.com/full-list-of-articles-in-the-real-world-software-architecture-series/
@@ -513,22 +528,14 @@ System Design and Architecture : ###
 	Deep Dive System Design
 		Module-1: Distributes System (In progress)
 
+Domain :
+	 IOT
+	 Telecom
+
 Algo and DS :
 	Start ------ Grokking Coding Interview Patterns in Java
 		* two pointers
 
-Domain :
-	 IOT
-	 Telecom	
-
-Frontend : ###
-	Udemy reactjs: 
-		Section:9 - A Complete Practice Project (In progress)
-
-AI/ML : 
-	Udemy A-Z machine learning 
-		* section-1
-		* section-2
 
 Server Side : 
 	Junit5 : assert all
@@ -537,12 +544,14 @@ Server Side :
 	Start ----- Python Fundamentals
 		* 
 
-MERN Stack: ****
-	Mongo DB, Express JS, React JS, Node JS	
-	- https://github.com/topics/mern-stack
-	- https://www.mongodb.com/mern-stack
-	- https://github.com/jeanrauwers/mern-course-bootcamp
-	- https://github.com/mohamedsamara/mern-ecommerce
+Full Stack:
+	MERN Stack:
+		Become a MERN Stack Developer
+		Mongo DB, Express JS, React JS, Node JS	
+		- https://github.com/topics/mern-stack
+		- https://www.mongodb.com/mern-stack
+		- https://github.com/jeanrauwers/mern-course-bootcamp
+		- https://github.com/mohamedsamara/mern-ecommerce
 
 Data visualization:
 	Tableau: https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm

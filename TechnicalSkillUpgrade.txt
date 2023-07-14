@@ -151,6 +151,13 @@ https://www.quora.com/?pa_story=MjIwNjI0Mzc0NTQzODU4MjIzNnwyMTExMDYyMzY3Njc0NzN8
 
 ------------- Popular:
 
+
+Security:
+	Everyday Cryptography
+	Cyber Security Fundamentals (SKILL PATH)
+		* Cyber Security Best Practices for Developers
+		* Web Security and Access Management: JWT, OAuth2 & OpenId Connect
+
 Quantum:
 	The Fundamentals of Quantum Computing
 	Evaluate Hamming Distance Using Quantum Computing
@@ -202,7 +209,7 @@ Devops:
 	kubernetes-essentials **
 	Become a Kubernetes Professional **	
 	DevOps for Developers **
-	Learn Kubernetes: A Deep Dive ***
+	Learn Kubernetes: A Deep Dive **
 	Fundamentals of DevOps
 
 	projects:
@@ -211,18 +218,24 @@ Devops:
 	Deploy a Full Stack Web Application over Kubernetes
 
 Cloud:
-	The Complete Guide to DevOps in Azure
-	cloud-computing-101-master-the-fundamentals **
-	Terraform: From Beginner to Master with Examples in AWS
-	Learn the A to Z of Amazon Web Services (AWS)
-	Cloud Architecture: A Guide To Design & Architect Your Cloud **
-	The Complete Guide to DevOps in Azure
-	event-driven-microservices-azure
-	rest-api-python-microsoft-azure
-	Fundamentals of AWS
+	Generic:
+		cloud-computing-101-master-the-fundamentals
+		Cloud Architecture: A Guide To Design & Architect Your Cloud
+
+	Azure:
+		The Complete Guide to DevOps in Azure
+		The Complete Guide to DevOps in Azure
+		event-driven-microservices-azure
+		rest-api-python-microsoft-azure
+		APIM, S3, Lambda
 
 	AWS:
+		Become an AWS Professional **
+		Learn the A to Z of Amazon Web Services (AWS)
+		Fundamentals of AWS
 		aws-certified-solutions-architect-assoc-exam-prep
+		Terraform: From Beginner to Master with Examples in AWS
+		good parts of AWS --> dynamoDB, EC2, lambda, S3, SQS, Kinesis, Route-53
 
 Language:		
 	Java:
@@ -277,6 +290,7 @@ Database:
 	Database Design Fundamentals for Software Engineers		
 	DynamoDB Deep Dive: NoSQL for Software Engineers
 	Complete Guide to Redis
+	Mongo DB
 
 Security:
 	Web Application Security for the Everyday Software Engineer
@@ -295,6 +309,9 @@ Product Management:
 
 Nodejs:
 	Automating With Node.js	
+
+Full Stack:
+	Become a MERN Stack Developer	
 
 
 
